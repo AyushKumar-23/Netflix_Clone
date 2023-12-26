@@ -1,0 +1,13 @@
+- Videos
+    -Long Videos(movies)
+    -Short Videos
+    -Playlists-List of movies
+    -Seasons - Playlists of Playlists
+- Categories
+    -Action, Comedy
+-Tags
+    -Action,Comedy,Drama,Action-Comedy,Live Studio Audience
+-Search
+    -Title
+    -Description
+    -Tags
